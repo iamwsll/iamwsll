@@ -55,7 +55,7 @@
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iamwsll/iamwsll/output/dist/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
+  <img src="https://raw.githubusercontent.com/iamwsll/iamwsll/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
 </div>
 
 ## 🎨 我的作品
@@ -79,7 +79,7 @@ Learn AI!
 
 <!-- 底部图片 -->
 <div align="center">
-  <img src="https://file.iamwsll.cn/articleCover/iamwsll11745157083431483.png" alt="miao miao!" width="250" height="250" />
+  <img src="https://file.iamwsll.cn/articleCover/iamwsll11745157083431483.png" alt="miao miao!"  />
 </div>
 
 <!--  skill badge 技能徽章 -->
@@ -121,7 +121,7 @@ Learn AI!
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 <!-- 贡献图 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iamwsll/iamwsll/output/dist/ocean.svg" alt="snake animation ocean" />
+  <img src="https://raw.githubusercontent.com/iamwsll/iamwsll/output/ocean.svg" alt="snake animation ocean" />
 </div>
 
   ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamwsll&show_icons=true&show=stars)
