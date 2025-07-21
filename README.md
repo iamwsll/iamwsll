@@ -68,7 +68,7 @@
 
 <!-- 星星动画 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/iamwsll/iamwsll/output/ocean.svg" alt="snake animation ocean" />
 </div>
 
 ## 🎯 近期目标
@@ -79,7 +79,7 @@ Learn AI!
 
 <!-- 底部图片 -->
 <div align="center">
-  <img src="https://file.iamwsll.cn/articleCover/iamwsll11745157083431483.png" alt="miao miao!"  />
+  <img src="https://file.iamwsll.cn/assets/iamwsll11753115149008474.png" alt="miao miao!"  />
 </div>
 
 <!--  skill badge 技能徽章 -->
@@ -121,7 +121,7 @@ Learn AI!
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 <!-- 贡献图 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iamwsll/iamwsll/output/ocean.svg" alt="snake animation ocean" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamwsll&theme=dracula&bg_color=FF000000&hide_border=true" />
 </div>
 
   ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamwsll&show_icons=true&show=stars)
