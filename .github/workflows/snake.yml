@@ -2,14 +2,16 @@
 name: Generate Snake
 
 on:
-  # 自动运行，可以设置每天更新一次
   schedule:
     - cron: "0 0 * * *"
-  # 允许你手动在 "Actions" 标签页中运行此工作流
   workflow_dispatch:
 
 jobs:
   build:
+    # 关键更新：在这里添加权限设置
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -17,10 +19,7 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          # 你的 GitHub 用户名，${{ github.repository_owner }} 会自动获取，无需手动修改
           github_user_name: ${{ github.repository_owner }}
-
-          # 定义要生成的 SVG 文件名和格式，可以生成多种颜色
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -29,9 +28,7 @@ jobs:
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # 推送到名为 output 的分支
           target_branch: output
-          # 构建产物的目录
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
