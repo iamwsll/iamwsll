@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 标题动画 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=FF000000&center=true&vCenter=true&width=435&lines=Hello+World!+Iam+WSLL+%F0%9F%91%8B;Welcome+to+my+Digital+World!+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=FF000000&center=true&vCenter=true&width=435&lines=Hello+World!+Iam+WSLL+%F0%9F%91%8B;Welcome+to+my+Cyber+World!+%F0%9F%8C%9F" alt="Typing SVG" />
   
   <!-- 波浪分隔线 -->
   <img width="100%" src="https://file.iamwsll.cn/assets/iamwsll11753114339288480.gif" />
@@ -17,8 +17,11 @@
   <a href="1481121704@qq.com"><img src="https://img.shields.io/badge/Email-邮箱-blue" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=iamwsll&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
-
-
+<div align="center">
+<a href="https://iamwsll.cn/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamwsll&repo=blog&theme=vue-dark&show_owner=true" />
+</a>
+</div>
 ## 🎯 关于我 
 
 <img align="right" width="250" src="https://file.iamwsll.cn/assets/iamwsll11753114454863263.gif" />
