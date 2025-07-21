@@ -1,0 +1,19 @@
+name: Generate Classic Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: CompetitiveLin/snake-in-contribution-grid@v4
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # 这个 Action 会自动生成多个文件，包括亮色和暗色
+          # svg_out_path: dist/github-contribution-grid-snake.svg
