@@ -1,0 +1,32 @@
+name: Generate Classic Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    # 关键：添加写入权限，这很可能是你之前失败的原因
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      # 使用 CompetitiveLin 的生成器
+      - uses: CompetitiveLin/snake-in-contribution-grid@v4
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # 同时输出亮色和暗色两个版本
+          outputs: |
+            dist/classic-snake.svg
+            dist/classic-snake-dark.svg?palette=github-dark
+
+      # 将生成的 dist 目录下的所有文件推送到 output 分支
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
