@@ -7,7 +7,7 @@
   <img width="100%" src="https://file.iamwsll.cn/assets/iamwsll11753114339288480.gif" />
   
   <!-- 动态蛇形图 -->
-  <img src="https://raw.githubusercontent.com/iamwsll/iamwsll/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/iamwsll/iamwsll/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 
