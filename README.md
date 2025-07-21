@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 标题动画 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=FF000000&center=true&vCenter=true&width=435&lines=Hello+World!+Iam WSLL+%F0%9F%91%8B;Welcome+to+my+Digital+World!+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=FF000000&center=true&vCenter=true&width=435&lines=Hello+World!+Iam+WSLL+%F0%9F%91%8B;Welcome+to+my+Digital+World!+%F0%9F%8C%9F" alt="Typing SVG" />
   
   <!-- 波浪分隔线 -->
   <img width="100%" src="https://file.iamwsll.cn/assets/iamwsll11753114339288480.gif" />
