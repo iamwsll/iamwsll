@@ -21,7 +21,7 @@
 </div>
 <div align="center">
 <a href="https://iamwsll.cn/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamwsll&repo=blog&theme=vue-dark&show_owner=true&dummy=123" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamwsll&repo=blog&show_owner=true&&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0,000000,000000" />
 </a>
 </div>
 
