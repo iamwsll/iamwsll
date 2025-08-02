@@ -85,7 +85,7 @@ Learn AI!
 
 <!-- 底部图片 -->
 <div align="center">
-  <img src="https://file.iamwsll.cn/assets/iamwsll11753115149008474.png" alt="miao miao!"  />
+  <img src="https://github.com/iamwsll/iamwsll/blob/master/miaomiao.png?raw=true" alt="miao miao!"  />
 </div>
 
 <!--  skill badge 技能徽章 -->
