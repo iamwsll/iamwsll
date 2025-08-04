@@ -37,10 +37,10 @@ jobs:
           > contribution_log.md
           
           # 设置当天最大 commit 次数
-          MAX_COMMITS=11
+          MAX_COMMITS=8
           
-          # 生成 2 到 MAX_COMMITS +1之间的随机数
-          NUM_COMMITS=$((RANDOM % MAX_COMMITS + 2))
+          # 生成 5 到 MAX_COMMITS +1之间的随机数
+          NUM_COMMITS=$((RANDOM % MAX_COMMITS + 5))
           
           echo "✅ Today we are making $NUM_COMMITS commits."
           
