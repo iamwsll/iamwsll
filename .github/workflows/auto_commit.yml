@@ -2,10 +2,10 @@ name: Daily Auto Commit
 
 on:
   schedule:
-    # 这是一个 cron 表达式，表示在每天的 UTC 时间 20:00 (北京时间凌晨4点) 运行。
-    # 你可以根据需要修改时间，例如 '0 4 * * *' 代表 UTC 时间凌晨2点。
+    # 这是一个 cron 表达式，表示在每天的 UTC 时间 1:00 (北京时间9点) 运行。
+    # 你可以根据需要修改时间，例如 '0 4 * * *' 代表 UTC 时间凌晨4点。
     # 为了让提交时间看起来更“随机”，你也可以使用更复杂的 cron 表达式。
-    - cron: '0 20 * * *'
+    - cron: '0 1 * * *'
   # 同时也允许你手动触发此工作流，方便测试
   workflow_dispatch:
 
@@ -33,24 +33,26 @@ jobs:
       # 第三步：创建随机数量的 Commit
       - name: Create random commits
         run: |
-          # 设置当天最大 commit 次数（例如，随机范围是 3 到 12 次）
-          MAX_COMMITS=10
+          # 清空日志文件，避免其无限增大
+          > contribution_log.md
           
-          # 生成 1 到 MAX_COMMITS 之间的随机数
-          NUM_COMMITS=$((RANDOM % MAX_COMMITS + 3))
+          # 设置当天最大 commit 次数
+          MAX_COMMITS=11
+          
+          # 生成 2 到 MAX_COMMITS +1之间的随机数
+          NUM_COMMITS=$((RANDOM % MAX_COMMITS + 2))
           
           echo "✅ Today we are making $NUM_COMMITS commits."
           
           # 循环执行 commit
           for i in $(seq 1 $NUM_COMMITS)
           do
-            # 修改文件以创建变更。这里向 a.txt 文件追加一行内容。
-            # 你可以换成任何你想修改的文件，例如 a.txt 或 contribution_log.md
+            # 修改文件以创建变更
             echo "Commit $i on $(date) with random value $RANDOM" >> contribution_log.md
             git add contribution_log.md
             
             # 创建 commit
-            git commit -m "chore: auto commit $i of $NUM_COMMITS for today"
+            git commit -m "chore: auto commit $i of $NUM_COMMITS for today,random:$RANDOM"
           done
 
       # 第四步：将所有 commit 推送到远程仓库
