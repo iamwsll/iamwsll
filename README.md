@@ -132,8 +132,8 @@ Learn AI!
 <div align="center">
   ps:这个贡献图实际上是我使用github action设定的定时commit导致的,不必视为真实代码贡献.
   </div>
-
+<div align="center">
   ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamwsll&show_icons=true&show=stars)
-
+</div>
 <!-- 分隔线 -->
 <img width="200%" src="https://file.iamwsll.cn/assets/iamwsll11753114339288480.gif" />
