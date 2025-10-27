@@ -130,7 +130,8 @@ Learn AI!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamwsll&theme=dracula&bg_color=FF000000&hide_border=true" />
 </div>
 <div align="center">
-  ps:这个贡献图实际上是我使用github action设定的定时commit导致的,不必视为真实代码贡献.设置这个的目的是为了隐藏个人行为,让其他人没法直接看出我最近是否在写代码.
+  ps:这个贡献图实际上是我使用github action设定的定时commit导致的,不必视为真实代码贡献.<br>
+  设置这个的目的是为了隐藏个人行为,让其他人没法直接看出我最近是否在写代码.<br>
   另外,如果你感兴趣,你可以查看2022年的贡献图,埋藏着一个彩蛋.
 </div>
 
