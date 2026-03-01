@@ -15,12 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamwsll&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 <div align="center">
-  <a href="https://iamwsll.cn"><img src="https://img.shields.io/badge/欢迎访问我的博客-iamwsll.cn-FF5733?style=for-the-badge&logo=rss" alt="我的博客" /></a>&emsp;
-</div>
-<div align="center">
-<a href="https://iamwsll.cn/">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamwsll&repo=blog&show_owner=true&&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0,000000,000000" />
-</a>
+  <a href="https://iamwsll.com"><img src="https://img.shields.io/badge/欢迎访问我的博客-iamwsll.com-FF5733?style=for-the-badge&logo=rss" alt="我的博客" /></a>&emsp;
 </div>
 
 ## 🎯 关于我 
