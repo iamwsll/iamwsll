@@ -7,8 +7,6 @@
   <img width="100%" src="https://file.iamwsll.cn/assets/iamwsll11753114339288480.gif" />
   
   <!-- 动态蛇形图 -->
-  <img src="https://raw.githubusercontent.com/iamwsll/iamwsll/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
 </div>
 
 <!-- 个人资料徽标 -->
@@ -48,34 +46,6 @@
   
 </div>
 
-## 📊 统计数据
-
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamwsll&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwsll&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamwsll&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-</div>
-
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iamwsll/iamwsll/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
-</div>
-
-## 🎨 我的作品
-
-<div align="center">
-  <a href="https://github.com/iamwsll/micro-service_based_chatroom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamwsll&repo=micro-service_based_chatroom&theme=vue-dark" />
-  </a>
-</div>
-
-<!-- 星星动画 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iamwsll/iamwsll/output/ocean.svg" alt="snake animation ocean" />
-</div>
 
 ## 🎯 近期目标
 
@@ -125,16 +95,6 @@ Learn AI!
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-<!-- 贡献图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamwsll&theme=dracula&bg_color=FF000000&hide_border=true" />
-</div>
-<div align="center">
-  ps:这个贡献图实际上是我使用github action设定的定时commit导致的,不必视为真实代码贡献.<br>
-  设置这个的目的是为了隐藏个人行为,让其他人没法直接看出我最近是否在写代码.<br>
-  另外,如果你感兴趣,你可以查看2022年的贡献图,埋藏着一个彩蛋.
-</div>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamwsll&show_icons=true&show=stars)
 <!-- 分隔线 -->
 <img width="200%" src="https://file.iamwsll.cn/assets/iamwsll11753114339288480.gif" />
