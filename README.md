@@ -38,7 +38,10 @@
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
   ![Rust](https://img.shields.io/badge/-Rust-2C2D72?style=flat-square&logo=rust&logoColor=white)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) 
 </div>
 
 
@@ -49,28 +52,6 @@ Learn AI!
 ```
 
 <!--  skill badge 技能徽章 -->
-
-## 💪 正在学习
-
-<!-- 进度条 -->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/进度-60%25-brightgreen)
-
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/进度-15%25-red)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/进度-10%25-orange)
-
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![](https://img.shields.io/badge/进度-10%25-orange)
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/进度-20%25-green)
-
-![Java](https://img.shields.io/badge/-Java-777BB4?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/进度-80%25-brightgreen)
-
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![](https://img.shields.io/badge/进度-60%25-red)
-
-![Cpp](https://img.shields.io/badge/-Cpp-2C2D72?style=flat-square&logo=cpp&logoColor=white) ![](https://img.shields.io/badge/进度-80%25-red)
-
-![Rust](https://img.shields.io/badge/-Rust-2C2D72?style=flat-square&logo=rust&logoColor=white) ![](https://img.shields.io/badge/进度-30%25-yellow)
-
 ## 🧠 计划学习
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
