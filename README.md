@@ -48,11 +48,6 @@
 Learn AI!
 ```
 
-<!-- 底部图片 -->
-<div align="center">
-  <img src="https://github.com/iamwsll/iamwsll/blob/master/miaomiao.png?raw=true" alt="miao miao!"  />
-</div>
-
 <!--  skill badge 技能徽章 -->
 
 ## 💪 正在学习
