@@ -1,34 +1,34 @@
 <div align="center">
   
-  <!-- 标题动画 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=FF000000&center=true&vCenter=true&width=435&lines=Hello+World!+Iam+WSLL+%F0%9F%91%8B;Welcome+to+my+Cyber+World!+%F0%9F%8C%9F" alt="Typing SVG" />
+  <!-- Title animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=FF000000&center=true&vCenter=true&width=435&lines=Hello+World!+Iam+WSLL+%F0%9F%91%8B;Welcome+to+my[...]" />
 
-  <!-- 波浪分隔线 -->
+  <!-- Wave separator -->
   <img width="100%" src="https://file.iamwsll.cn/assets/iamwsll11753114339288480.gif" />
   
-  <!-- 动态蛇形图 -->
+  <!-- Dynamic serpentine graphic -->
 </div>
 
-<!-- 个人资料徽标 -->
+<!-- Profile badges -->
 <div align="center">
-  <a href="1481121704@qq.com"><img src="https://img.shields.io/badge/Email-邮箱-blue" /></a>&emsp;
-  <img src="https://komarev.com/ghpvc/?username=iamwsll&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  <a href="mailto:1481121704@qq.com"><img src="https://img.shields.io/badge/Email-Contact-blue" alt="Email" /></a>&emsp;
+  <img src="https://komarev.com/ghpvc/?username=iamwsll&label=Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div>
 <div align="center">
-  <a href="https://iamwsll.com"><img src="https://img.shields.io/badge/欢迎访问我的博客-iamwsll.com-FF5733?style=for-the-badge&logo=rss" alt="我的博客" /></a>&emsp;
+  <a href="https://iamwsll.com"><img src="https://img.shields.io/badge/Visit+my+Blog-iamwsll.com-FF5733?style=for-the-badge&logo=rss" alt="My Blog" /></a>&emsp;
 </div>
 
-## 🎯 关于我 
+## 🎯 About Me 
 
 <img align="right" width="250" src="https://file.iamwsll.cn/assets/iamwsll11753114454863263.gif" />
 
-- 🔭 乐于探索的开发者
-- 🌱 永远保持学习的热情
-- 👯 寻找渴望改变世界的朋友
-- 🤔 孜孜不倦的探索者
-- ⚡ 编程改变世界
+- 🔭 Developer who loves exploring
+- 🌱 Always passionate about learning
+- 👯 Looking for friends who want to change the world
+- 🤔 A relentless explorer
+- ⚡ Programming changes the world
 
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 
 <div align="center">
   
@@ -45,18 +45,18 @@
 </div>
 
 
-## 🎯 近期目标
+## 🎯 Current Goal
 
 ```
 Learn AI!
 ```
 
-<!--  skill badge 技能徽章 -->
-## 🧠 计划学习
+<!-- skill badge -->
+## 🧠 Learning Plan
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-3178C6?logo=go&logoColor=fff&style=flat)
-## 🧰 常用工具
+## 🧰 Tools I Use
 
 ![JetBrains Badge](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=fff&style=flat)
 ![PhpStorm Badge](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=fff&style=flat)
@@ -67,5 +67,5 @@ Learn AI!
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<!-- 分隔线 -->
+<!-- Separator -->
 <img width="200%" src="https://file.iamwsll.cn/assets/iamwsll11753114339288480.gif" />
