@@ -48,7 +48,7 @@
 ## 🎯 Current Goal
 
 ```
-Learn AI!
+DO SOMETHING COOLLLLLL！
 ```
 
 <!-- skill badge -->
